@@ -5,7 +5,7 @@ namespace show {
     * Prueba para formato de bloques
     */
     //% blockId=device_show_number
-    //% block="show|number %v"
+    //% block="Mostrar|numero %v"
     export function showNumber(v: number, interval: number = 150): void
     { 
         let a : string = v + '0';
