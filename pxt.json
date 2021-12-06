@@ -1,0 +1,11 @@
+{
+    "name": "pxt-show",
+    "description": "Formato para bloques",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
